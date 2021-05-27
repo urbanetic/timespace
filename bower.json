@@ -1,0 +1,26 @@
+{
+  "name": "timespace",
+  "description": "compute fuzzy local time from a location",
+  "main": "index.js",
+  "authors": [
+    "morganherlocker"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "localization",
+    "time",
+    "timezone",
+    "geo"
+  ],
+  "homepage": "https://github.com/urbanetic/timespace",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "jquery/jquery-dist#^3.6.0"
+  }
+}
